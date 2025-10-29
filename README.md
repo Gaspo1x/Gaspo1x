@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi, I'm Gaspar Assante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaspar+Assante!;" />
 </h1>
 
 <hr>
@@ -14,4 +14,11 @@ I'm interested in developing games, websites, and apps
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 </pre>
-<hr>
+<div>
+   <hr/>
+ 
+<h2 align="center">Languages-Frameworks-Tools </h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma" />
+</div>
+
