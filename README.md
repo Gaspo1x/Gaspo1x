@@ -19,7 +19,7 @@ I'm interested in developing games, websites, and apps
  
 <h2 align="center">Languages-Frameworks-Tools </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,markdown,html,css,vscode,github,figma" />
     <img src="https://skillicons.dev/icons?i=unity,unreal" />
 </div>
 
