@@ -24,6 +24,6 @@
 
 <hr>
     <p align="center">
-        <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=Gaspox1&theme=windows&color=1&scale=.8" alt="GitHub contribution graph"/>
+        <img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=Gaspo1x&theme=windows&color=1&scale=.8" alt="GitHub contribution graph"/>
     </p>
 </hr>
